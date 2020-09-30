@@ -1,12 +1,12 @@
 ## Node.js Starter 
 
-1. Initialize npm
+1. Initialize npm <br>
 ```npm init```
 
-2. Install express and other dependencies 
+2. Install express and other dependencies <br>
 ```npm i express dotenv node-fetch ...etc```
 
-3. Install dev dependencies (nodemon to auto reload)
+3. Install dev dependencies (nodemon to auto reload) <br>
 ```npm i -D nodemon ...etc```
 
 4. Alter scripts accordingly in package.json, eg:
@@ -46,7 +46,7 @@
    });
 ```
 
-6. Run the server
+6. Run the server <br>
 ```npm run dev```
 
 7. Test server using Postman at http://localhost:5000/test
